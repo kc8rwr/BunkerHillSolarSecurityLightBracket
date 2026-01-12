@@ -1,0 +1,3 @@
+[submodule "libraries/UnfyOpenSCADLib"]
+	path = libraries/UnfyOpenSCADLib
+	url = git@github.com:kc8rwr/UnfyOpenSCADLib.git
